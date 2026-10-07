@@ -8,7 +8,7 @@ Claude Code 提示词裁剪插件。删除指定的内置安全、代词和环�
 
 ## 兼容性
 
-Claude Code CLI **2.1.287+**。[2.1.287](https://github.com/anthropics/claude-code/releases/tag/v2.1.287) 是正式宣布支持 Claude Mods 并默认启用的版本。升级后需重新验证接口和模板措辞。
+Claude Code CLI **[2.1.287](https://github.com/anthropics/claude-code/releases/tag/v2.1.287) +**。
 
 ## 安装
 
