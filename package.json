@@ -1,0 +1,12 @@
+{
+  "name": "prompt-prune",
+  "version": "0.1.1",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "claude plugin validate . && claude plugin validate .claude-plugin/plugin.json",
+    "test": "claude plugin test .",
+    "test:request": "node scripts/check-request.mjs"
+  }
+}

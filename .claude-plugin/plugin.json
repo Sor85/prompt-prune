@@ -1,0 +1,10 @@
+{
+  "name": "prompt-prune",
+  "version": "0.1.1",
+  "description": "删除 Claude Code 指定的安全、代词和环境模板，保留仅提交的署名提醒，移除 Bash 描述中的默认分支自动建分支要求。",
+  "author": {
+    "name": "Sor85"
+  },
+  "repository": "https://github.com/Sor85/prompt-prune",
+  "license": "MIT"
+}
